@@ -1,5 +1,5 @@
-# AE-AS Project
-
+# Applied Econometrics Project
+# Topic : Determinants of household female expenditure in India
 ## Overview
 This project investigates the determinants of female education expenditure in Indian households using data from the India Human Development Survey-II (2011–12). By combining household and individual-level datasets, we analyze how factors like income, parental education, caste, religion, school type, and urban residence influence education spending on girls using multiple linear regression models.
 
